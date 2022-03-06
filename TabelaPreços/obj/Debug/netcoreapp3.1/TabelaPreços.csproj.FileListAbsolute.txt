@@ -1,0 +1,24 @@
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.exe
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.deps.json
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.runtimeconfig.json
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.dll
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.pdb
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.dll
+C:\Users\Samsung\source\repos\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.pdb
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.exe
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.deps.json
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.runtimeconfig.json
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.runtimeconfig.dev.json
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.dll
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\bin\Debug\netcoreapp3.1\TabelaPreços.pdb
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.AssemblyInfoInputs.cache
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.AssemblyInfo.cs
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.dll
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.pdb
+C:\Users\Carlos Marques\source\Antiga\TabelaPreços\TabelaPreços\obj\Debug\netcoreapp3.1\TabelaPreços.genruntimeconfig.cache

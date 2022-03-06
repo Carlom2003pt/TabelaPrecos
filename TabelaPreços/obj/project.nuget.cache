@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9x0EaFPX6S6wLgZ3aP8Kh+ZYJsZrZ4QQaN3XgJF9v+bKcKfNDNqzyWGJ/vL6+1el6k1OzdgFWVdzNYkoN8IgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Marques\\source\\Antiga\\TabelaPreços\\TabelaPreços\\TabelaPreços.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Marques\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.18\\microsoft.netcore.app.host.win-x86.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
